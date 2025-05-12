@@ -1,0 +1,18 @@
+# PWR ROTEIROS
+
+- [Roteiro 01](../PWR/Roteiro_01/meu_site/index.html)
+- [Roteiro 02](../PWR/Roteiro_02/nosso_site/index.html)
+- [Roteiro 03](../PWR/Roteiro_03/index.html)
+- [Roteiro 04](../PWR/Roteiro_04/index.html)
+- [Roteiro 05](../PWR/Roteiro_05)
+- [Roteiro 06](../PWR/Roteiro_06)
+- [Roteiro 07](../PWR/Roteiro_07)
+- [Roteiro 08](../PWR/Roteiro_08)
+- [Roteiro 09](../PWR/Roteiro_09)
+- [Roteiro 10](../PWR/Roteiro_10)
+- [Roteiro 11](../PWR/Roteiro_11)
+- [Roteiro 12](../PWR/Roteiro_12)
+- [Roteiro 13](../PWR/Roteiro_13)
+- [Roteiro 14](../PWR/Roteiro_14)
+- [Roteiro 15](../PWR/Roteiro_15)
+- [Roteiro 16](../PWR/Roteiro_16)

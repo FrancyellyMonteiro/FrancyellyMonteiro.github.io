@@ -1,0 +1,4 @@
+# AULAS PRESENCIAS
+
+- [PWR](../AULAS_PRATICAS/PWR/index.md)
+- [DDM](../AULAS_PRATICAS/DDM/index.md)
